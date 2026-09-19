@@ -1,0 +1,1 @@
+SELECT * FROM Employee3 WHERE Job_Id IN ('SH_CLERK', 'IT_PROG', 'AD_ASST');

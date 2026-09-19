@@ -1,0 +1,1 @@
+SELECT *FROM Employee3 WHERE Comm_Pct IS NULL;

@@ -1,0 +1,1 @@
+SELECT Department_Id, Employee3_Id ,Salary FROM Employee3  WHERE Salary > 5000; 

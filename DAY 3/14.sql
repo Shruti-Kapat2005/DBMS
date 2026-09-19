@@ -1,0 +1,1 @@
+SELECT * FROM Employee3 WHERE Department_Id IN(10,20,30,50);
