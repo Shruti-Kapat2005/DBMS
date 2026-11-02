@@ -1,0 +1,2 @@
+DELETE FROM Movie
+WHERE Mv_no = 1;
