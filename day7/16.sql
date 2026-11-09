@@ -1,0 +1,4 @@
+SELECT DEPT_ID,
+       MIN(SAL) AS "Minimum Salary"
+FROM EMP
+GROUP BY DEPT_ID;

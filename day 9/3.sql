@@ -1,0 +1,9 @@
+CREATE TABLE Movie (
+    Mv_no NUMBER(3),
+    Title VARCHAR2(30) NOT NULL,
+    Type VARCHAR2(15) NOT NULL,
+    Star VARCHAR2(10) NOT NULL,
+    Price NUMBER(6) NOT NULL,
+
+    CONSTRAINT PK_MOVIE PRIMARY KEY (Mv_no)
+);

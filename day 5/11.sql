@@ -1,0 +1,4 @@
+SELECT *
+FROM Client_Master
+WHERE Name LIKE 'R%i';
+

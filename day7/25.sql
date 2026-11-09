@@ -1,0 +1,2 @@
+SELECT TO_CHAR(SYSDATE, 'YEAR') AS "Year In Words"
+FROM DUAL;

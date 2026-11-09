@@ -1,0 +1,10 @@
+CREATE TABLE Customer (
+    Cust_id VARCHAR2(3),
+    Fname VARCHAR2(20) NOT NULL,
+    Lname VARCHAR2(20),
+    Area VARCHAR2(2) NOT NULL,
+    Phone NUMBER(10),
+
+    CONSTRAINT PK_CUSTOMER PRIMARY KEY (Cust_id),
+    CONSTRAINT CK_CUSTOMER_ID CHECK (Cust_id LIKE 'A%')
+);

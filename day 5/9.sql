@@ -1,0 +1,3 @@
+SELECT SUM(Qty_on_hand * Cost_price) AS Total_Cost_Price
+FROM Products_Master;
+

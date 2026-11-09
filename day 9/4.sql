@@ -1,0 +1,10 @@
+INSERT INTO Movie VALUES (1,'Bloody','Action','JC',181);
+INSERT INTO Movie VALUES (2,'The Firm','Thriller','TC',200);
+INSERT INTO Movie VALUES (3,'Pretty Woman','Romance','RG',151);
+INSERT INTO Movie VALUES (4,'Home Alone','Comedy','MC',150);
+INSERT INTO Movie VALUES (5,'The Fugitive','Thriller','MF',200);
+INSERT INTO Movie VALUES (6,'Coma','Suspense','MD',100);
+INSERT INTO Movie VALUES (7,'Dracula','Horror','GO',150);
+INSERT INTO Movie VALUES (8,'Quick Change','Comedy','BM',100);
+INSERT INTO Movie VALUES (9,'Gone with the Wind','Action','CB',200);
+INSERT INTO Movie VALUES (10,'Carry on Doctor','Comedy','LP',100);
